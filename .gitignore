@@ -1,0 +1,7 @@
+project/pkl
+project/app/__pycache__
+project/app/migrations/__pycache__
+project/project/__pycache__
+project/service/__pycache__
+project/static
+.env
