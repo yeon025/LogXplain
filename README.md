@@ -70,7 +70,7 @@ def generate_ip_address():
     return fake.ipv4()
 ```
 
-**적용효과**
+**적용 효과**
 
 * 학습 데이터 부족 문제 해결
 * 데이터 다양성 증가로 성능 향상
@@ -101,7 +101,7 @@ for sample in sample_elements:
 df6 = pd.DataFrame(data6)
 ```
 
-**적용효과**
+**적용 효과**
 
 * 비정형(XML) 데이터를 학습 가능한 데이터로 변환
 * 데이터 전처리 자동화로 처리 효율 향상
